@@ -20,12 +20,10 @@ namespace WeeklyAssesment1.Controllers
 
         public IActionResult Index()
         {
-            return View();
+           
+            return View(ViewBag.stList);
         }
-        public IActionResult Home()
-        {
-            return View();
-        }
+      
         public IActionResult Contact()
         {
             return View();
