@@ -114,3 +114,4 @@ C:\Users\manig\OneDrive\Desktop\day29Dotnetcore\Day50\WeeklyAssesment1\obj\Debug
 C:\Users\manig\OneDrive\Desktop\day29Dotnetcore\Day50\WeeklyAssesment1\obj\Debug\net5.0\ref\WeeklyAssesment1.dll
 C:\Users\manig\OneDrive\Desktop\day29Dotnetcore\Day50\WeeklyAssesment1\obj\Debug\net5.0\WeeklyAssesment1.pdb
 C:\Users\manig\OneDrive\Desktop\day29Dotnetcore\Day50\WeeklyAssesment1\obj\Debug\net5.0\WeeklyAssesment1.genruntimeconfig.cache
+C:\Users\manig\OneDrive\Desktop\day29Dotnetcore\Day50\WeeklyAssesment1\obj\Debug\net5.0\Razor\Views\Home\Home.cshtml.g.cs
